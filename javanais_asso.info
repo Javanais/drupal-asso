@@ -25,4 +25,7 @@ dependencies[] = rdf
 dependencies[] = locale
 dependencies[] = l10n_update
 
+; Associations
+dependencies[] = epsacrop
+
 files[] = javanais_asso.profile
