@@ -26,6 +26,6 @@ dependencies[] = locale
 dependencies[] = l10n_update
 
 ; Associations
-dependencies[] = epsacrop
+dependencies[] = imagefield_crop
 
 files[] = javanais_asso.profile
