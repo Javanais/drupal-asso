@@ -1,4 +1,4 @@
-drupal-asso
-===========
+drupal-standard
+================
 
-Distribution Drupal pour associations
+Profile d'installation de Drupal pour un usage standard.
