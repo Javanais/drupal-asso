@@ -7,7 +7,7 @@
  */
  
  /*
-function javanais_asso_install() {
+function javanais_standard_install() {
   include_once DRUPAL_ROOT . '/profiles/standard/standard.install';
   standard_install();
 
