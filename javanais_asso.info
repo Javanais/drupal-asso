@@ -1,5 +1,5 @@
-name = Javanais Asso
-description = Installation standard pour associations.
+name = Javanais Standard
+description = Installation de Drupal pour usage standard.
 version = VERSION
 core = 7.x
 dependencies[] = block
